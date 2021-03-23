@@ -1,0 +1,4 @@
+humains
+maisons
+animaux
+fusée
